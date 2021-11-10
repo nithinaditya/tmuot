@@ -1,4 +1,4 @@
 # tmuot
-##Members
-Nithin Adithya P
-Jeya Nishwanth J S
+## Members
+- Nithin Aditya P
+- Jeya Nishwanth J S
